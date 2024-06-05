@@ -3,11 +3,14 @@
 </p>
 <br>
 <h3 align="center">A passionate competitive programmer and front-end developer.</h3>
-<img align="right" alt="Coding" width="300" src="https://pa1.narvii.com/7142/ddc852a504ff4ef20e2b88c5f4842c36d303316fr1-300-300_hq.gif">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishan101101&label=Profile%20views&color=0e75b6&style=flat" alt="kishan101101" /> </p>
 
 ## 😄 About Me
-
+<div>
+  <img align="right" alt="Coding" width="300" src="https://pa1.narvii.com/7142/ddc852a504ff4ef20e2b88c5f4842c36d303316fr1-300-300_hq.gif">
+</div>
 
 - 🌱 I’m currently learning **java script,React**
 
