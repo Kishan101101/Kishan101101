@@ -2,7 +2,7 @@
   <img src="https://github.com/Kishan101101/Kishan101101/blob/main/header.svg" alt="my banner"></a>
 </p>
 <br>
-<h3 align="center">A passionate competitive programmer and front-end developer.</h3>
+<h3 align="center">A passionate competitive programmer and full-stack developer.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishan101101&label=Profile%20views&color=0e75b6&style=flat" alt="kishan101101" /> </p>
