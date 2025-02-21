@@ -12,9 +12,9 @@
   <img align="right" alt="Coding" width="300" src="https://pa1.narvii.com/7142/ddc852a504ff4ef20e2b88c5f4842c36d303316fr1-300-300_hq.gif">
 </div>
 
-- 🌱 I’m currently learning **java script,React**
+- 🌱 I’m currently working in **java-Script, React, Node.js, Express.js**
 
-- 💬 Ask me about **C++,Competitive Programming,HTML,CSS,JAVA SCRIPT**
+- 💬 Ask me about **C++, Competitive Programming, HTML, CSS, JAVA-SCRIPT,Python**
 
 - 📫 How to reach me **kishan.career101@gmail.com**
 
